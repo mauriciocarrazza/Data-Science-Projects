@@ -25,7 +25,7 @@ Find the true Scala experts by exploring its development history in Git and Gith
 **Topics:** 
 - Importing & Cleaning Data
 - Data Manipulation
-- Data Visualization
+- Data Visualization <br /> 
 **Datasets:** 
 
 ## Predicting Credit Card Approvals
