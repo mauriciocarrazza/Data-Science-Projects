@@ -25,8 +25,7 @@ Find the true Scala experts by exploring its development history in Git and Gith
 **Topics:** 
 - Importing & Cleaning Data
 - Data Manipulation
-- Data Visualization <br /> 
-**Datasets:** 
+- Data Visualization
 
 ## Predicting Credit Card Approvals
 Build a Machine Learning Model to predict if a credit card application will get approved. <br />
