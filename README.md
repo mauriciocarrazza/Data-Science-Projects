@@ -21,11 +21,12 @@ A comprehensive analysis of the Android app market by comparing over ten thousan
 
 ## The GitHub History of the Scala Language
 Find the true Scala experts by exploring its development history in Git and Github. <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/the_github_history.ipynb <br /> 
 **Topics:** 
 - Importing & Cleaning Data
 - Data Manipulation
 - Data Visualization
+**Datasets:** 
 
 ## Predicting Credit Card Approvals
 Build a Machine Learning Model to predict if a credit card application will get approved. <br />
