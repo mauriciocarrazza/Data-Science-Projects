@@ -13,7 +13,7 @@ Based on the data provided by a company with almost 10,000 employees, analyze an
 
 ## The Android App Market on Google Play
 A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories, looking for insights in the data to devise strategies to drive growth and retention. <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/the_android_app_market.ipynb <br /> 
 **Topics:** 
 - Data Cleaning
 - Data Manipulation
