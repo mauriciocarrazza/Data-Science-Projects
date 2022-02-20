@@ -73,7 +73,7 @@ From data collected from Sephora's global store, find the average prices for fou
 
 ## Investigating Netflix Movies and Guest Stars in The Office
 Apply Python skills by manipulating and visualizing movie and TV data. <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/netflix_movies.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Data Visualization
