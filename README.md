@@ -30,7 +30,7 @@ Find the true Scala experts by exploring its development history in Git and Gith
 
 ## Predicting Credit Card Approvals
 Build a Machine Learning Model to predict if a credit card application will get approved. <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/pred_cc_approval.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Machine Learning (Logistic Regression)
