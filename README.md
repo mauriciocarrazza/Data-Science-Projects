@@ -39,7 +39,7 @@ Build a Machine Learning Model to predict if a credit card application will get 
 
 ## Walmart Stores Sales
 Perform a data analysis on Walmart sales records to help them make better informed decisions and develop data-driven strategies. <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/walmart_stores.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Statistics
