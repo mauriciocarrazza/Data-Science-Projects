@@ -9,7 +9,7 @@ Based on the data provided by a company with almost 10,000 employees, analyze an
 - Data Manipulation
 - Data Visualization
 - Statistics
-- Machine Learning
+- Machine Learning (Logistic Regression)
 
 ## The Android App Market on Google Play
 A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories, looking for insights in the data to devise strategies to drive growth and retention. <br />
@@ -33,7 +33,7 @@ Build a Machine Learning Model to predict if a credit card application will get 
 **Link to the project**: <br /> 
 **Topics:** 
 - Data Manipulation
-- Machine Learning
+- Machine Learning (Logistic Regression)
 - Importing & Cleaning Data
 - Applied Finance
 
