@@ -1,5 +1,5 @@
 # Python-Projects
-Welcome to my repository. [Agrega una intro]
+Welcome to my repository. Here you will find a series of projects about data science using Python language. Projects can be part of courses, competitions, university work or own initiatives. Among the techniques developed are: data importing, cleaning, manipulation and visualization; probability, statistics, machine learning and programming.
 
 ## Employee turnover
 Based on the data provided by a company with almost 10,000 employees, analyze and predict the variables that are causing the turnovers of a high percentage of employees. <br />
