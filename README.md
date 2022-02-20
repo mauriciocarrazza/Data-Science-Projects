@@ -58,7 +58,7 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 ## A Visual History of Nobel Prize Winners
 Explore a dataset containing a century's worth of Nobel Laureates. <br />
 <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/nobel_prize_winners.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Data Visualization
