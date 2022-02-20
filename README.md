@@ -66,7 +66,7 @@ Explore a dataset containing a century's worth of Nobel Laureates. <br />
 
 ## Coding Challenge: Cosmetic Brand Analysis
 From data collected from Sephora's global store, find the average prices for four competitor brands across three categories. <br />
-**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/edit/main/README.md <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/cosmetic_brand_analysis.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Importing & Cleaning Data
