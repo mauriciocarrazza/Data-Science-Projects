@@ -48,7 +48,7 @@ Perform a data analysis on Walmart sales records to help them make better inform
 
 ## The Discovery of Handwashing
 Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. <br />
-**Link to the project**: <br /> 
+**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/discovery_handwashing.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Data Visualization
