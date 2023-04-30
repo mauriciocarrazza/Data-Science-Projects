@@ -1,6 +1,15 @@
 # Python-Projects
 Welcome to my repository. Here you will find a series of projects about data science using Python and Tableau. Projects can be part of courses, competitions, university work or own initiatives. Among the techniques developed are: data importing, cleaning, analysis and visualization; probability, statistics, machine learning and programming.
 
+
+## Analysis on Professional Profiles in Tech
+This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. The datasets are not available for this project. <br />
+**Link to the project**: <br />
+**Topics:** 
+- Data manipulation and analysis in Python
+- Data viz in Python and Tableau
+- Machine Learning (classification model)
+
 ## Employee turnover
 Based on the data provided by a company with almost 10,000 employees, analyze and predict the variables that are causing the turnovers of a high percentage of employees. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/employee_turnover.ipynb <br />
