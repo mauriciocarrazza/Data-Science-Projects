@@ -3,7 +3,7 @@ Welcome to my repository. Here you will find a series of projects about data sci
 
 
 ## Analysis on Professional Profiles in Tech
-This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. The datasets are not available for this project. <br />
+This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. The datasets are not available for this project. This project contain 4 files: the Jupyter Notebook with the code answer, a PDF with the challenge instructions, a Tableau workbook with some visualizations of the answers and a Power Point presentation to the stakeholders <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/tree/main/analysis_tech_profiles <br />
 **Topics:** 
 - Data manipulation and analysis in Python
