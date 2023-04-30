@@ -1,5 +1,5 @@
 # Python-Projects
-Welcome to my repository. Here you will find a series of projects about data science using Python and Tableau. Projects can be part of courses, competitions, university work or own initiatives. Among the techniques developed are: data importing, cleaning, analysis and visualization; probability, statistics, machine learning and programming.
+Welcome to my repository. Here you will find a series of projects about data science using Python, SQL and Tableau. Projects can be part of courses, competitions, university work or own initiatives. Among the techniques developed are: data importing, cleaning, analysis and visualization; probability, statistics, machine learning and programming.
 
 
 ## Analysis on Professional Profiles in Tech
