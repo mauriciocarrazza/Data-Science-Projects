@@ -3,6 +3,9 @@ Welcome to my repository. Here you will find a series of projects about data sci
 
 Some projects consist of more than file, so they are located in a single folder. <br />
 
+## Soccer Leagues Analysis and Machine Learning Models Evaluation
+Project from a technical interview that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
+**Link to the project**:  <br />
 
 ## Analysis on Professional Profiles in Tech
 This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. I'm not sharing the datasets for this project. This project contain 4 files: the Jupyter Notebook with the code answer, a PDF with the challenge instructions, a Tableau workbook with some visualizations of the answers and a Power Point presentation to the stakeholders <br />
