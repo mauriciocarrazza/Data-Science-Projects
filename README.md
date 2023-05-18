@@ -3,11 +3,11 @@ Welcome to my repository. Here you will find a series of projects about data sci
 
 Some projects consist of more than file, so they are located in a single folder. <br />
 
-## Mar-2023: Soccer Leagues Analysis and Machine Learning Models Evaluation
+## Mar-2023 - (Tech Interview) - Soccer Leagues Analysis and Machine Learning Models Evaluation
 Project from a technical interview that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Projects/tree/main/soccer_and_ml <br />
 
-## Jan-2023: Analysis on Professional Profiles in Tech
+## Jan-2023 - (Tech Interview) - Analysis on Professional Profiles in Tech
 This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. I'm not sharing the datasets for this project. This project contain 4 files: the Jupyter Notebook with the code answer, a PDF with the challenge instructions, a Tableau workbook with some visualizations of the answers and a Power Point presentation to the stakeholders <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/tree/main/analysis_tech_profiles <br />
 **Topics:** 
@@ -15,7 +15,7 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 - Data viz in Python and Tableau
 - Machine Learning (classification model)
 
-## Employee turnover
+## Oct-2022 - (Competition) - Employee turnover
 Based on the data provided by a company with almost 10,000 employees, analyze and predict the variables that are causing the turnovers of a high percentage of employees. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/employee_turnover.ipynb <br />
 **Link to the competition**: https://app.datacamp.com/workspace/w/916f34ed-c1d0-49ec-aeaa-52ee01d6f297 <br />
@@ -25,7 +25,7 @@ Based on the data provided by a company with almost 10,000 employees, analyze an
 - Statistics
 - Machine Learning (Logistic Regression)
 
-## The Android App Market on Google Play
+## May-2022 - (Guided Project) - The Android App Market on Google Play
 A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories, looking for insights in the data to devise strategies to drive growth and retention. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/the_android_app_market.ipynb <br /> 
 **Topics:** 
@@ -34,7 +34,7 @@ A comprehensive analysis of the Android app market by comparing over ten thousan
 - Data Visualization
 - Probability & Statistics
 
-## The GitHub History of the Scala Language
+## Mar-2022 - (Guided Project) - The GitHub History of the Scala Language
 Find the true Scala experts by exploring its development history in Git and Github. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/the_github_history.ipynb <br /> 
 **Topics:** 
@@ -42,7 +42,7 @@ Find the true Scala experts by exploring its development history in Git and Gith
 - Data Manipulation
 - Data Visualization
 
-## Predicting Credit Card Approvals
+## Feb-2022 - (Guided Project) - Predicting Credit Card Approvals
 Build a Machine Learning Model to predict if a credit card application will get approved. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/pred_cc_approval.ipynb <br /> 
 **Topics:** 
@@ -51,7 +51,7 @@ Build a Machine Learning Model to predict if a credit card application will get 
 - Importing & Cleaning Data
 - Applied Finance
 
-## Walmart Stores Sales
+## Feb-2022 - (Guided Project) - Walmart Stores Sales
 Perform a data analysis on Walmart sales records to help them make better informed decisions and develop data-driven strategies. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/walmart_stores.ipynb <br /> 
 **Topics:** 
@@ -60,7 +60,7 @@ Perform a data analysis on Walmart sales records to help them make better inform
 - Data Visualization
 - Importing & Cleaning Data
 
-## The Discovery of Handwashing
+## Jan-2022 - (Guided Project) - The Discovery of Handwashing
 Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/discovery_handwashing.ipynb <br /> 
 **Topics:** 
@@ -69,7 +69,7 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 - Probability & Statistics
 - Importing & Cleaning Data
 
-## A Visual History of Nobel Prize Winners
+## Jan-2022 - (Guided Project) - A Visual History of Nobel Prize Winners
 Explore a dataset containing a century's worth of Nobel Laureates. <br />
 <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/nobel_prize_winners.ipynb <br /> 
@@ -78,14 +78,14 @@ Explore a dataset containing a century's worth of Nobel Laureates. <br />
 - Data Visualization
 - Importing & Cleaning Data
 
-## Coding Challenge: Cosmetic Brand Analysis
+## Dec-2021 - (Guided Project) - Coding Challenge: Cosmetic Brand Analysis
 From data collected from Sephora's global store, find the average prices for four competitor brands across three categories. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/cosmetic_brand_analysis.ipynb <br /> 
 **Topics:** 
 - Data Manipulation
 - Importing & Cleaning Data
 
-## Investigating Netflix Movies and Guest Stars in The Office
+## Dec-2021 - (Guided Project) - Investigating Netflix Movies and Guest Stars in The Office
 Apply Python skills by manipulating and visualizing movie and TV data. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/netflix_movies.ipynb <br /> 
 **Topics:** 
