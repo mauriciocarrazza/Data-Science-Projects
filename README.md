@@ -19,7 +19,7 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 - Machine Learning (classification model)
 
 ## Mar-2021 - (University Project) - Study of correlations between activated carbon properties
-
+Collecting and assembling an extensive database of activated carbon properties and applying machine learning techniques such as clustering and PCA to find the best ones. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/activated%20carbon%20-%20ML%20%26%20Data%20Analysis <br />
 **Topics:** 
 - Extensive Research and Database creation in Excel
