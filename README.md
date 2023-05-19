@@ -5,7 +5,7 @@ Some projects consist of more than file, so they are located in a single folder.
 
 The "guided_projects" folder contain all of the notebooks for each guided project. <br />
 
-All of the avaiable datasets from each projects can be located in the "datasets" folder. <br />
+All of the avalable datasets from each project can be located in the "datasets" folder. <br />
 
 ## Mar-2023 - (Tech Interview) - Soccer Leagues Analysis and Machine Learning Models Evaluation
 Project from a technical interview that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
