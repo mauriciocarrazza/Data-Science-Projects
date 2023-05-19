@@ -30,7 +30,7 @@ Collecting and assembling an extensive database of activated carbon properties a
 
 ## Oct-2022 - (Competition) - Employee turnover
 Based on the data provided by a company with almost 10,000 employees, analyze and predict the variables that are causing the turnovers of a high percentage of employees. <br />
-**Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/blob/main/employee_turnover.ipynb <br />
+**Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/blob/main/employee_turnover.ipynb <br />
 **Link to the competition**: https://app.datacamp.com/workspace/w/916f34ed-c1d0-49ec-aeaa-52ee01d6f297 <br />
 **Topics:** 
 - Data Manipulation
