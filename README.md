@@ -11,6 +11,7 @@ All of the avalable datasets from each project can be located in the "datasets" 
 Project from a technical interview that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
 
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Projects/tree/main/soccer_and_ml <br />
+**Topics:** 
 - Data manipulation and analysis in Python
 - Data viz in Python
 - Machine Learning (classification model)
