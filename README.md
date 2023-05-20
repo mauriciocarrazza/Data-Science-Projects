@@ -22,6 +22,18 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 - Data viz in Python and Tableau
 - Machine Learning (classification model)
 
+## Apr-2022 - (Internship Project) - Database creation for Water Treatment Processes
+Developed my chemical engineering degree project entitled "Effective use and control of water in a cosmetic manufacturer" (Earned a final industry grade of 48/50).
+- Designed a database for the control of water's microbiological analysis and physicochemical properties (Microsoft Excel). This tool made it possible to increase decision making effectiveness about water treatment and reduce disinfection costs by 40%.
+- Developed the techniques to measure water consumption and created data visualizations (Python). These both helped to improve the company's production planning process. <br />
+The folder contains the final doc presented to the university. All of the information about the project development is found in the chapter #6.
+**Link to the project**:  https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/Internship%20(water%20treatment) <br />
+**Topics:** 
+- Database creation (Excel)
+- Data visualization (Excel & Python)
+- Chemical Engineering
+- Water treatment
+
 ## Mar-2021 - (University Project) - Study of correlations between activated carbon properties
 Collecting and assembling an extensive database of activated carbon properties and applying machine learning techniques such as clustering and PCA to find the best ones. <br />
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/activated%20carbon%20-%20ML%20%26%20Data%20Analysis <br />
