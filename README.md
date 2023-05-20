@@ -11,6 +11,7 @@ All of the avalable datasets from each project can be located in the "datasets" 
 Project from a technical interview that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
 
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Projects/tree/main/soccer_and_ml <br />
+
 **Topics:** 
 - Data manipulation and analysis in Python
 - Data viz in Python
@@ -20,6 +21,7 @@ Project from a technical interview that consists of two sections: The first one 
 This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. I'm not sharing the datasets for this project. This project contain 4 files: the Jupyter Notebook with the code answer, a PDF with the challenge instructions, a Tableau workbook with some visualizations of the answers and a Power Point presentation to the stakeholders <br />
 
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/tree/main/analysis_tech_profiles  <br />
+
 **Topics:** 
 - Data manipulation and analysis in Python
 - Data viz in Python and Tableau
@@ -31,6 +33,7 @@ Developed my chemical engineering degree project entitled "Effective use and con
 - Developed the techniques to measure water consumption and created data visualizations (Python). These both helped to improve the company's production planning process. <br />
 
 **Link to the project**:  https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/Internship%20(water%20treatment) <br />
+
 **Topics:** 
 - Database creation (Excel)
 - Data visualization (Excel & Python)
@@ -41,6 +44,7 @@ Developed my chemical engineering degree project entitled "Effective use and con
 Collecting and assembling an extensive database of activated carbon properties and applying machine learning techniques such as clustering and PCA to find the best ones. <br />
 
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/activated%20carbon%20-%20ML%20%26%20Data%20Analysis <br />
+
 **Topics:** 
 - Extensive Research and Database creation in Excel
 - Statistical Analysis
@@ -51,6 +55,7 @@ Based on the data provided by a company with almost 10,000 employees, analyze an
 
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/blob/main/employee_turnover.ipynb <br />
 **Link to the competition**: https://app.datacamp.com/workspace/w/916f34ed-c1d0-49ec-aeaa-52ee01d6f297 <br />
+
 **Topics:** 
 - Data Manipulation
 - Data Visualization
@@ -59,6 +64,7 @@ Based on the data provided by a company with almost 10,000 employees, analyze an
 
 ## May-2022 - (Guided Project) - The Android App Market on Google Play
 A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories, looking for insights in the data to devise strategies to drive growth and retention. <br />
+
 **Topics:** 
 - Data Cleaning
 - Data Manipulation
@@ -67,6 +73,7 @@ A comprehensive analysis of the Android app market by comparing over ten thousan
 
 ## Mar-2022 - (Guided Project) - The GitHub History of the Scala Language
 Find the true Scala experts by exploring its development history in Git and Github. <br />
+
 **Topics:** 
 - Importing & Cleaning Data
 - Data Manipulation
@@ -74,6 +81,7 @@ Find the true Scala experts by exploring its development history in Git and Gith
 
 ## Feb-2022 - (Guided Project) - Predicting Credit Card Approvals
 Build a Machine Learning Model to predict if a credit card application will get approved. <br />
+
 **Topics:** 
 - Data Manipulation
 - Machine Learning (Logistic Regression)
@@ -82,6 +90,7 @@ Build a Machine Learning Model to predict if a credit card application will get 
 
 ## Jan-2022 - (Guided Project) - The Discovery of Handwashing
 Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. <br />
+
 **Topics:** 
 - Data Manipulation
 - Data Visualization
@@ -90,7 +99,7 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 
 ## Jan-2022 - (Guided Project) - A Visual History of Nobel Prize Winners
 Explore a dataset containing a century's worth of Nobel Laureates. <br />
-<br />
+
 **Topics:** 
 - Data Manipulation
 - Data Visualization
@@ -98,12 +107,14 @@ Explore a dataset containing a century's worth of Nobel Laureates. <br />
 
 ## Dec-2021 - (Guided Project) - Coding Challenge: Cosmetic Brand Analysis
 From data collected from Sephora's global store, find the average prices for four competitor brands across three categories. <br />
+
 **Topics:** 
 - Data Manipulation
 - Importing & Cleaning Data
 
 ## Dec-2021 - (Guided Project) - Investigating Netflix Movies and Guest Stars in The Office
 Apply Python skills by manipulating and visualizing movie and TV data. <br />
+
 **Topics:** 
 - Data Manipulation
 - Data Visualization
