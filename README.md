@@ -9,6 +9,7 @@ All of the avalable datasets from each project can be located in the "datasets" 
 
 ## Mar-2023 - (Tech Interview) - Soccer Leagues Analysis and Machine Learning Models Evaluation
 Project from a technical interview that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
+
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Projects/tree/main/soccer_and_ml <br />
 - Data manipulation and analysis in Python
 - Data viz in Python
@@ -16,6 +17,7 @@ Project from a technical interview that consists of two sections: The first one 
 
 ## Jan-2023 - (Tech Interview) - Analysis on Professional Profiles in Tech
 This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. I'm not sharing the datasets for this project. This project contain 4 files: the Jupyter Notebook with the code answer, a PDF with the challenge instructions, a Tableau workbook with some visualizations of the answers and a Power Point presentation to the stakeholders <br />
+
 **Link to the project**: https://github.com/mauriciocarrazza/Python-Projects/tree/main/analysis_tech_profiles  <br />
 **Topics:** 
 - Data manipulation and analysis in Python
@@ -36,6 +38,7 @@ Developed my chemical engineering degree project entitled "Effective use and con
 
 ## Mar-2021 - (University Project) - Study of correlations between activated carbon properties
 Collecting and assembling an extensive database of activated carbon properties and applying machine learning techniques such as clustering and PCA to find the best ones. <br />
+
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/activated%20carbon%20-%20ML%20%26%20Data%20Analysis <br />
 **Topics:** 
 - Extensive Research and Database creation in Excel
@@ -44,6 +47,7 @@ Collecting and assembling an extensive database of activated carbon properties a
 
 ## Oct-2022 - (Competition) - Employee turnover
 Based on the data provided by a company with almost 10,000 employees, analyze and predict the variables that are causing the turnovers of a high percentage of employees. <br />
+
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/blob/main/employee_turnover.ipynb <br />
 **Link to the competition**: https://app.datacamp.com/workspace/w/916f34ed-c1d0-49ec-aeaa-52ee01d6f297 <br />
 **Topics:** 
