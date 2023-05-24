@@ -32,6 +32,18 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 
 ![tech profiles analysis](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/a42f9845-847c-4bee-9659-63e8cfd12116)
 
+## Dic-2022 - (Own Initiative) - Customer Segmentation Analysis with a Furniture Store's Data
+Objective: segment customers based on groups based on their last purchase and number of purchases.
+
+**Link to the project**: (link here)  <br />
+
+**Topics:** 
+- Data manipulation and analysis in Python
+- Data viz in Python
+- Machine Learning (clustering)
+
+(img)
+
 
 ## Apr-2022 - (Internship Project) - Database creation for Water Treatment Processes
 Developed my chemical engineering degree project entitled "Effective use and control of water in a cosmetic manufacturer" (Earned a final industry grade of 48/50). The folder contains the final doc presented to the university. All of the information about the project development is found in the chapter #6.
