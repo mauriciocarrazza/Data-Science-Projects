@@ -17,6 +17,9 @@ Project from a technical interview that consists of two sections: The first one 
 - Data viz in Python
 - Machine Learning (classification model)
 
+![soccer analysis](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/3e463d9b-7bdc-4a0a-84d7-38343d7e360d)
+
+
 ## Jan-2023 - (Tech Interview) - Analysis on Professional Profiles in Tech
 This project was a challenge to be admitted at a company for a Data Analyst Role. It consists of two sections: The first one is a data processing and analysis on tech profiles using Python and Tableau. The second one is the development of a classification model to optimize the hiring process of tech talents. I'm not sharing the datasets for this project. This project contain 4 files: the Jupyter Notebook with the code answer, a PDF with the challenge instructions, a Tableau workbook with some visualizations of the answers and a Power Point presentation to the stakeholders <br />
 
