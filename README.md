@@ -60,6 +60,9 @@ Collecting and assembling an extensive database of activated carbon properties a
 - Statistical Analysis
 - Machine Learning (PCA & Clustering) using Statgraphics
 
+![act carbon](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/7d0342ff-0019-4635-bcbc-bf384746102d)
+
+
 ## Oct-2022 - (DataCamp Competition) - Employee turnover
 Based on the data provided by a company with almost 10,000 employees, analyze and predict the variables that are causing the turnovers of a high percentage of employees. <br />
 
