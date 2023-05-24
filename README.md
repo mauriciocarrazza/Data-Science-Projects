@@ -46,6 +46,10 @@ Developed my chemical engineering degree project entitled "Effective use and con
 - Chemical Engineering
 - Water treatment
 
+![mb del agua](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/98f7c4a4-a05e-467b-9592-ec488c358dad)
+![ph del agua](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/75454c3b-b42a-46b6-bf7c-06a0ee2b8234)
+
+
 ## Mar-2021 - (University Project) - Study of correlations between activated carbon properties
 Collecting and assembling an extensive database of activated carbon properties and applying machine learning techniques such as clustering and PCA to find the best ones. <br />
 
