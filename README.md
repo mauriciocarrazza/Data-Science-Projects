@@ -34,7 +34,7 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 
 
 ## Dic-2022 - (Own Initiative) - Customer Segmentation Analysis with a Furniture Store's Data
-Objective: segment customers based on groups based on their last purchase and number of purchases.
+Segment customers based on groups based on their last purchase and number of purchases. I'm not sharing the dataset for this project.
 
 **Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/furniture_store  <br />
 
