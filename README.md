@@ -27,6 +27,8 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 - Data viz in Python and Tableau
 - Machine Learning (classification model)
 
+![Torneo Padel - venezuelapadeltour](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/4b6afef2-ee6f-4e8c-8358-8dd5b55e6bc0)
+
 ## Apr-2022 - (Internship Project) - Database creation for Water Treatment Processes
 Developed my chemical engineering degree project entitled "Effective use and control of water in a cosmetic manufacturer" (Earned a final industry grade of 48/50). The folder contains the final doc presented to the university. All of the information about the project development is found in the chapter #6.
 - Designed a database for the control of water's microbiological analysis and physicochemical properties (Microsoft Excel). This tool made it possible to increase decision making effectiveness about water treatment and reduce disinfection costs by 40%.
