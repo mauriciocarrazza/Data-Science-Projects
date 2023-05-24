@@ -32,17 +32,18 @@ This project was a challenge to be admitted at a company for a Data Analyst Role
 
 ![tech profiles analysis](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/a42f9845-847c-4bee-9659-63e8cfd12116)
 
+
 ## Dic-2022 - (Own Initiative) - Customer Segmentation Analysis with a Furniture Store's Data
 Objective: segment customers based on groups based on their last purchase and number of purchases.
 
-**Link to the project**: (link here)  <br />
+**Link to the project**: https://github.com/mauriciocarrazza/Data-Science-Projects/tree/main/furniture_store  <br />
 
 **Topics:** 
 - Data manipulation and analysis in Python
 - Data viz in Python
 - Machine Learning (clustering)
 
-(img)
+![furniture store](https://github.com/mauriciocarrazza/Data-Science-Projects/assets/85778131/f4b2d512-e9c7-4987-821f-7bac8c077aaf)
 
 
 ## Apr-2022 - (Internship Project) - Database creation for Water Treatment Processes
