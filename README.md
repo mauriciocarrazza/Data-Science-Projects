@@ -126,7 +126,7 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 - Probability & Statistics
 - Importing & Cleaning Data
 
-## Jan-2022 - A Visual History of Nobel Prize Winners - (Guided Project) -
+## Jan-2022 - A Visual History of Nobel Prize Winners - (Guided Project)
 Explore a dataset containing a century's worth of Nobel Laureates. <br />
 
 **Topics:** 
@@ -141,7 +141,7 @@ From data collected from Sephora's global store, find the average prices for fou
 - Data Manipulation
 - Importing & Cleaning Data
 
-## Dec-2021 - Investigating Netflix Movies and Guest Stars in The Office - (Guided Project) -
+## Dec-2021 - Investigating Netflix Movies and Guest Stars in The Office - (Guided Project)
 Apply Python skills by manipulating and visualizing movie and TV data. <br />
 
 **Topics:** 
