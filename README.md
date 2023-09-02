@@ -12,6 +12,9 @@ Data Science competition hosted by Factored. We finished in 5th place out of 111
 
 **Link to the repo**: [factored-datathon-2023-Big-Data-Joropo](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo) <br />
 
+![report](https://github.com/mauriciocarrazza/Data-Science-Projects/blob/main/datathon_2023_report_sc.png)
+
+
 ## Mar-2023 - Soccer Leagues Analysis and Machine Learning Models Evaluation - (Tech Challenge) 
 Project that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
 
