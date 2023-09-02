@@ -7,6 +7,11 @@ The "guided_projects" folder contain all of the notebooks for each guided projec
 
 All of the avalable datasets from each project can be located in the "datasets" folder. <br />
 
+## Aug-2023 - Factored’s Datathon: Data Engineering, Machine Learning & Data Analytics - (Team Competition) 
+Data Science competition hosted by Factored. We finished in 5th place out of 111 teams. <br />
+
+**Link to the repo**: [https://github.com/mauriciocarrazza/Data-Projects/tree/main/soccer_and_ml](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo) <br />
+
 ## Mar-2023 - Soccer Leagues Analysis and Machine Learning Models Evaluation - (Tech Challenge) 
 Project that consists of two sections: The first one is a data processing and analysis of the Top 5 Soccer Leagues in Europe using Python's pandas, numpy, matplotlib and seaborn. The second one uses a wine dataset and consists of an EDA and evaluation of differents techniques used in Machine Learning. <br />
 
