@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Welcome to my repository. Here you will find a series of projects about data science using Python, SQL and Tableau. Projects can be part of competitions, university work, tech challenges or own initiatives. Among the techniques developed are: data importing, cleaning, analysis and visualization; probability, statistics, machine learning and programming. <br />
+Welcome to my repository. Here you will find a series of projects about data science using Python, SQL, Power BI and Tableau. Projects can be part of competitions, university work, tech challenges or own initiatives. Among the techniques developed are: data extraction, cleaning, analysis and visualization; probability, statistics, machine learning and programming. <br />
 
 Some projects consist of more than file, so they are located in a single folder. <br />
 
